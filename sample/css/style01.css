@@ -1,11 +1,11 @@
 
 body{
-  background-color: #DCDCDC;
+  background-color: #dcdcdc;
 }
 
 .wrapper{
   max-width: 1000px;
-  background-color: #fff;
+  background-color: rgb(255, 255, 255);
   margin: 0 auto;
 }
 
